@@ -1,3 +1,6 @@
+
+name = input("Please input your name: ") 
+
 text_input = input("Enter a sentence or a line of text: ")
 word_modifier = input("Enter a word you want to remove or highlight: ")
 censor = "[REDACTED]"
